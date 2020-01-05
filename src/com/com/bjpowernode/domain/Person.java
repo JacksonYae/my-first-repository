@@ -14,5 +14,8 @@ public class Person {
 
     private String address;
 
+    private String bra22;
+
     private String bra11;
+
 }
